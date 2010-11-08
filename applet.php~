@@ -1,0 +1,11 @@
+<?php
+$myFile = "data.txt";
+$fh = fopen($myFile, 'w') or die("can't open file");
+
+foreach($_POST as $key=>$value)
+{
+fwrite($fh, $value."<br>");
+}
+fclose($fh);
+
+?>

@@ -1,0 +1,1 @@
+<span class='Green'>Please enter a password in the textbox below.Guide to bettern pattern generation can be found <a href='#'>here</a>. Once you are done. Press Enter (Return) Key. And repeat. You need minimum 12 successfull patterns before you can create a Template for Authentication</span>
